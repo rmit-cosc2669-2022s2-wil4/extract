@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "RainFall": {
+      "commandName": "Project",
+      "commandLineArgs": "Single \"C:\\Projects\\RMIT\\COSC2669\\Wil Project\\HQmonthlyR\\Data\"",
+      "workingDirectory": "C:\\Projects\\RMIT\\COSC2669\\Wil Project\\HQmonthlyR"
+    },
+    "Evaporation": {
+      "commandName": "Project",
+      "commandLineArgs": "Single \"C:\\Projects\\RMIT\\COSC2669\\Wil Project\\HQmonthlyE\\Data\"",
+      "workingDirectory": "C:\\Projects\\RMIT\\COSC2669\\Wil Project\\HQmonthlyE"
+    },
+    "Cloud": {
+      "commandName": "Project",
+      "commandLineArgs": "Single \"C:\\Projects\\RMIT\\COSC2669\\Wil Project\\HQmonthlyC\\Data\"  \"74034,75031,76031,76047,78077,80015,80023,81123,82002,84016,84030,85072,86071,86127,86282,88023,88043,88110,89085,90015,90135\"",
+      "workingDirectory": "C:\\Projects\\RMIT\\COSC2669\\Wil Project\\HQmonthlyC"
+    },
+    "Combined": {
+      "commandName": "Project",
+      "commandLineArgs": "Combined HQmonthlyR,HQmonthlyE,HQmonthlyC 26021,74034,75031,76031,76047,78077,79079,80015,80023,81123,82002,82039,84016,84030,85072,86071,86127,86282,87126,88023,88043,88110,89085,90015,90135",
+      "workingDirectory": "C:\\Projects\\RMIT\\COSC2669\\Wil Project"
+    }
+  }
+}
